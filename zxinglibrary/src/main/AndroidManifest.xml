@@ -16,9 +16,7 @@
 
 
     <!--suppress AndroidUnknownAttribute -->
-    <application
-        tools:overrideLibrary="com.yzq.zxinglibrary"
-        >
+    <application>
 
         <activity
             android:name=".android.CaptureActivity"
